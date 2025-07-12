@@ -1,0 +1,103 @@
+<!-- templates/index.html -->
+{% extends "base.html" %}
+{% block content %}
+
+<h1 style="text-align: center; margin-bottom: 2rem;">🧠 AI Task Dashboard</h1>
+
+<!-- 🔍 Search Bar -->
+<div class="card" style="margin-bottom: 1.5rem;">
+  <input type="text" id="searchInput" placeholder="🔍 Search your tasks..." onkeyup="searchTasks()">
+</div>
+
+<!-- Add Task Form -->
+<div class="card glowing-card" id="add-task">
+  <h3 style="margin-bottom: 1rem;"> Add a New Task</h3>
+  <form method="POST" action="{{ url_for('submit_task') }}">
+    <label><i class="bi bi-pencil-square"></i> Task</label>
+    <input type="text" name="task" placeholder="e.g., Complete Flask Assignment" required />
+
+    <label><i class="bi bi-calendar"></i> Due Date</label>
+    <input type="date" name="due_date" required />
+
+    <label><i class="bi bi-flag-fill"></i> Priority</label>
+    <select name="priority" required>
+      <option value="High"> High</option>
+      <option value="Medium"> Medium</option>
+      <option value="Low"> Low</option>
+    </select>
+
+    <label><i class="bi bi-tags-fill"></i> Category</label>
+    <select name="category" multiple required>
+      <option value="Work"> Work</option>
+      <option value="Personal"> Personal</option>
+      <option value="Health"> Health</option>
+      <option value="Finance"> Finance</option>
+      <option value="Study"> Study</option>
+    </select>
+
+    <button class="button" type="submit">➕ Add Task</button>
+  </form>
+</div>
+
+<!-- 📋 Task Table -->
+<div class="card">
+  <h3>📝 Task List</h3>
+  <table id="taskTable">
+    <tr>
+      <th>#</th>
+      <th>Date</th>
+      <th>Task</th>
+      <th>Category</th>
+      <th>Priority</th>
+      <th>Due</th>
+      <th>Status</th>
+      <th>Action</th>
+    </tr>
+    {% for task in tasks %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ task['Date'][:16] }}</td>
+      <td>{{ task['Task'] }}</td>
+      <td>{{ task['Category'] }}</td>
+      <td>{{ task['Priority'] }}</td>
+      <td>{{ task['DueDate'] }}</td>
+      <td>{{ task['Status'] }}</td>
+      <td>
+        {% if task['Status'] != 'Completed' %}
+        <a class="button" href="{{ url_for('update_status', task_index=loop.index0, new_status='Completed') }}">✔ Done</a>
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<!-- 📊 CHARTS Section -->
+<div class="chart-container">
+  <div class="card" style="flex: 1;">
+    <h3>📌 Category Distribution (Pie)</h3>
+    <canvas id="categoryChart"></canvas>
+  </div>
+  <div class="card" style="flex: 1;">
+    <h3>⚡ Priority Distribution (Bar)</h3>
+    <canvas id="priorityChart"></canvas>
+  </div>
+</div>
+
+<!-- Chart + Search Script -->
+<script>
+  const categoryData = {{ category_data | tojson }};
+  const priorityData = {{ priority_data | tojson }};
+
+  function searchTasks() {
+    const input = document.getElementById("searchInput").value.toLowerCase();
+    const rows = document.querySelectorAll("#taskTable tr:not(:first-child)");
+    rows.forEach(row => {
+      const text = row.innerText.toLowerCase();
+      row.style.display = text.includes(input) ? "" : "none";
+    });
+  }
+</script>
+<script src="{{ url_for('static', filename='js/chart.js') }}"></script>
+
+{% endblock %}

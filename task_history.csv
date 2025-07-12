@@ -1,0 +1,11 @@
+Date,Task,Category,Priority,DueDate,Status
+2025-06-20 19:43:05,login page ,Study,Medium,,Completed
+2025-06-20 19:52:10,login page ,Study,Medium,,Completed
+2025-06-23 20:50:40,Dentist Appointment,Health,High,2025-07-06,Pending
+2025-06-23 20:51:50,Project Deadline,Study,Medium,2025-08-23,Pending
+2025-06-23 20:52:41,Routine Checkup,Health,High,2025-07-20,Pending
+2025-06-23 20:53:38,Attend Wedding,Personal,Low,2025-12-24,Pending
+2025-06-23 20:57:26,Pay Electricity bill,Finance,Medium,2025-08-04,Pending
+2025-06-26 12:44:39,wifi bill,Finance,High,2025-06-29,Pending
+2025-06-26 12:49:10,Assignment work,Study,Medium,2025-07-30,Pending
+2025-06-27 22:22:49,Spa Appointment,Personal,Low,2025-08-30,Pending

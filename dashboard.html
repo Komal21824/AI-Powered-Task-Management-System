@@ -1,0 +1,101 @@
+<!-- templates/dashboard.html -->
+{% extends "base.html" %}
+{% block content %}
+
+<h1 style="text-align: center; margin-bottom: 2rem;">🧠 AI Task Manager Dashboard</h1>
+
+<!-- Summary Cards -->
+<div class="chart-container">
+  <div class="card" style="flex: 1;">
+    <h3>Total Tasks</h3>
+    <p style="font-size: 2rem; color: #1db954;">{{ total_tasks }}</p>
+  </div>
+  <div class="card" style="flex: 1;">
+    <h3>Completed</h3>
+    <p style="font-size: 2rem; color: #1db954;">{{ completed_tasks }}</p>
+  </div>
+  <div class="card" style="flex: 1;">
+    <h3>Pending</h3>
+    <p style="font-size: 2rem; color: #ff5555;">{{ pending_tasks }}</p>
+  </div>
+</div>
+
+<!-- Charts Section -->
+<div class="chart-container">
+  <div class="card" style="flex: 1;">
+    <h3>Task Distribution (Pie)</h3>
+    <canvas id="pieChart" height="250"></canvas>
+  </div>
+  <div class="card" style="flex: 1;">
+    <h3>Tasks by Priority (Bar)</h3>
+    <canvas id="barChart" height="250"></canvas>
+  </div>
+</div>
+
+<!-- Add Task Form -->
+<div class="card">
+  <h3>Add a New Task</h3>
+  <form method="POST" action="{{ url_for('add_task') }}">
+    <input type="text" name="task" placeholder="Enter your task..." required />
+    <button class="button" type="submit">Add Task</button>
+  </form>
+</div>
+
+<!-- Task List -->
+<div class="card">
+  <h3>Your Tasks</h3>
+  <table style="width: 100%; color: #fff; text-align: left;">
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Category</th>
+      <th>Priority</th>
+      <th>Status</th>
+      <th>Action</th>
+    </tr>
+    {% for idx, task in enumerate(tasks) %}
+    <tr>
+      <td>{{ idx + 1 }}</td>
+      <td>{{ task['text'] }}</td>
+      <td>{{ task['category'] }}</td>
+      <td>{{ task['priority'] }}</td>
+      <td>{{ task['status'] }}</td>
+      <td>
+        <a href="{{ url_for('mark_done', index=idx) }}" class="button" style="padding: 0.3rem 0.7rem; font-size: 0.8rem;">✔ Done</a>
+        <a href="{{ url_for('delete_task', index=idx) }}" class="button" style="background: #ff5555; padding: 0.3rem 0.7rem; font-size: 0.8rem;">🗑 Delete</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<!-- Export Buttons -->
+<div class="card" style="text-align: center;">
+  <a href="{{ url_for('export_csv') }}" class="button">📥 Export CSV</a>
+  <a href="{{ url_for('export_pdf') }}" class="button" style="margin-left: 1rem;">📄 Export PDF</a>
+</div>
+
+<!-- Chart.js Script -->
+<script>
+  const pieCtx = document.getElementById('pieChart').getContext('2d');
+  const barCtx = document.getElementById('barChart').getContext('2d');
+
+  new Chart(pieCtx, {
+    type: 'pie',
+    data: {{ pie_chart_data|safe }},
+    options: { responsive: true }
+  });
+
+  new Chart(barCtx, {
+    type: 'bar',
+    data: {{ bar_chart_data|safe }},
+    options: {
+      responsive: true,
+      scales: {
+        y: { beginAtZero: true }
+      }
+    }
+  });
+</script>
+
+{% endblock %}

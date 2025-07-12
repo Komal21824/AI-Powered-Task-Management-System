@@ -1,0 +1,1001 @@
+task,task_type,priority
+Study closet,Study,Medium
+Pay kitchen,Study,Medium
+Call meeting,Shopping,Medium
+Call meeting,Shopping,High
+Watch bills,Personal,Medium
+Watch movie,Study,High
+Organize slides,Shopping,Medium
+Attend kitchen,Personal,Low
+Write bills,Study,High
+Study appointment,Shopping,High
+Prepare trip,Personal,Medium
+Prepare blog post,Study,Medium
+Plan project report,Work,Low
+Pay trip,Personal,Medium
+Submit homework,Personal,Low
+Pay movie,Shopping,High
+Buy book,Shopping,Low
+Plan homework,Study,High
+Schedule bills,Work,Low
+Organize project report,Work,Medium
+Pay groceries,Study,Medium
+Schedule appointment,Work,Medium
+Watch appointment,Study,Low
+Clean homework,Shopping,Medium
+Read book,Personal,High
+Organize bills,Personal,Medium
+Organize slides,Personal,High
+Prepare trip,Study,Low
+Pay trip,Study,High
+Call kitchen,Personal,Low
+Buy blog post,Shopping,High
+Study project report,Shopping,High
+Read notes,Work,Medium
+Clean homework,Shopping,High
+Renew bills,Study,High
+Study slides,Study,Medium
+Review kitchen,Study,High
+Prepare license,Study,Medium
+Submit book,Shopping,High
+Attend notes,Work,High
+Buy closet,Work,High
+Submit project report,Work,Low
+Prepare project report,Work,High
+Watch trip,Personal,Medium
+Attend project report,Work,Low
+Review movie,Personal,High
+Submit bills,Work,High
+Pay appointment,Personal,High
+Renew trip,Work,Low
+Buy notes,Shopping,High
+Study parents,Work,Medium
+Study homework,Shopping,Low
+Organize parents,Personal,Medium
+Review trip,Work,Medium
+Attend groceries,Work,Medium
+Pay trip,Personal,Medium
+Organize blog post,Study,Medium
+Buy book,Personal,High
+Call trip,Work,Low
+Organize closet,Study,Low
+Watch meeting,Work,High
+Organize trip,Shopping,Medium
+Read project report,Shopping,High
+Pay ML chapter,Shopping,High
+Buy parents,Study,Medium
+Write project report,Study,Low
+Prepare ML chapter,Study,High
+Clean parents,Work,High
+Read meeting,Shopping,Medium
+Buy ML chapter,Study,Medium
+Plan closet,Personal,High
+Attend notes,Study,Low
+Review bills,Study,High
+Watch blog post,Work,High
+Buy closet,Work,Low
+Review slides,Shopping,Medium
+Submit notes,Shopping,High
+Call closet,Personal,High
+Write trip,Shopping,Medium
+Clean homework,Shopping,High
+Study trip,Shopping,Medium
+Plan bills,Personal,Medium
+Read trip,Work,High
+Call blog post,Study,Medium
+Study groceries,Work,Low
+Buy trip,Shopping,High
+Write movie,Personal,Low
+Study homework,Shopping,Medium
+Attend project report,Shopping,Medium
+Call meeting,Work,Medium
+Buy meeting,Personal,Medium
+Review closet,Study,Medium
+Review kitchen,Study,Low
+Call groceries,Personal,High
+Attend notes,Personal,Medium
+Finish project report,Study,Low
+Watch movie,Shopping,High
+Finish bills,Personal,Medium
+Prepare groceries,Personal,Medium
+Plan book,Study,Medium
+Attend trip,Study,Medium
+Clean groceries,Work,Medium
+Attend book,Personal,High
+Organize ML chapter,Shopping,Medium
+Renew parents,Shopping,High
+Finish book,Personal,Medium
+Schedule kitchen,Study,Medium
+Schedule notes,Personal,Medium
+Attend groceries,Work,High
+Attend parents,Personal,Low
+Plan slides,Study,High
+Review project report,Personal,Medium
+Submit parents,Shopping,Medium
+Prepare blog post,Work,Low
+Schedule slides,Shopping,Medium
+Call blog post,Work,Medium
+Submit ML chapter,Study,High
+Prepare appointment,Personal,Low
+Watch project report,Shopping,Low
+Organize ML chapter,Study,Low
+Finish blog post,Personal,Medium
+Finish groceries,Shopping,Medium
+Buy slides,Shopping,High
+Finish ML chapter,Shopping,High
+Clean book,Study,Low
+Clean parents,Personal,High
+Write appointment,Shopping,High
+Clean project report,Shopping,Medium
+Write slides,Work,Low
+Review meeting,Study,Medium
+Review slides,Work,High
+Organize bills,Personal,Low
+Prepare project report,Personal,Medium
+Study book,Work,High
+Pay bills,Shopping,Medium
+Attend project report,Personal,High
+Plan ML chapter,Study,Low
+Attend slides,Personal,High
+Renew groceries,Work,Medium
+Buy movie,Study,High
+Study appointment,Work,High
+Prepare slides,Study,High
+Study book,Shopping,High
+Organize appointment,Study,High
+Watch project report,Work,Low
+Renew project report,Study,High
+Watch blog post,Work,High
+Finish closet,Study,Low
+Schedule bills,Work,Low
+Buy slides,Study,Low
+Pay closet,Study,High
+Plan groceries,Shopping,High
+Read movie,Personal,Medium
+Pay license,Personal,Low
+Schedule ML chapter,Study,High
+Attend notes,Study,High
+Read notes,Work,Medium
+Organize movie,Study,High
+Call groceries,Work,Low
+Buy license,Study,Medium
+Schedule homework,Work,Medium
+Prepare movie,Work,Medium
+Finish meeting,Work,High
+Read book,Study,Medium
+Review appointment,Work,Medium
+Study book,Shopping,Medium
+Plan bills,Work,Low
+Watch bills,Study,High
+Study blog post,Study,High
+Renew parents,Work,Medium
+Review bills,Work,Low
+Call parents,Shopping,High
+Watch movie,Study,Medium
+Clean meeting,Shopping,Low
+Clean groceries,Study,Low
+Call project report,Study,Medium
+Organize ML chapter,Personal,Low
+Schedule notes,Personal,High
+Watch ML chapter,Study,Medium
+Submit meeting,Work,Low
+Prepare appointment,Study,High
+Schedule movie,Personal,Medium
+Organize blog post,Shopping,High
+Submit license,Personal,Medium
+Finish appointment,Shopping,High
+Prepare trip,Shopping,High
+Renew slides,Work,Medium
+Plan appointment,Shopping,High
+Write groceries,Personal,Low
+Renew slides,Study,Medium
+Read trip,Work,Medium
+Call homework,Personal,Low
+Call slides,Work,High
+Buy homework,Shopping,Low
+Pay notes,Study,Low
+Plan movie,Work,Medium
+Buy license,Work,High
+Prepare ML chapter,Study,Medium
+Plan bills,Personal,Low
+Clean slides,Personal,Medium
+Plan parents,Personal,Medium
+Study groceries,Study,High
+Renew appointment,Shopping,Medium
+Buy notes,Personal,Medium
+Clean movie,Shopping,High
+Plan book,Shopping,High
+Attend homework,Personal,Low
+Attend homework,Study,High
+Attend bills,Work,High
+Finish trip,Study,Medium
+Renew kitchen,Shopping,Low
+Prepare project report,Personal,Medium
+Write closet,Shopping,Medium
+Review kitchen,Work,High
+Watch license,Work,Medium
+Buy meeting,Study,Medium
+Read bills,Shopping,Medium
+Buy trip,Work,Medium
+Pay kitchen,Work,Low
+Finish meeting,Personal,High
+Submit notes,Study,Medium
+Buy movie,Personal,Low
+Pay appointment,Work,Medium
+Study movie,Personal,Medium
+Watch parents,Personal,Low
+Prepare blog post,Shopping,Medium
+Finish trip,Personal,Medium
+Buy slides,Shopping,Medium
+Write trip,Shopping,Low
+Finish license,Shopping,High
+Review homework,Study,Low
+Buy appointment,Study,Medium
+Plan homework,Work,High
+Attend book,Study,Medium
+Study blog post,Shopping,Low
+Read appointment,Work,Low
+Renew appointment,Work,Medium
+Read kitchen,Shopping,Low
+Finish movie,Personal,Medium
+Organize appointment,Personal,High
+Prepare license,Shopping,High
+Write closet,Shopping,Medium
+Study book,Study,High
+Attend homework,Shopping,Medium
+Read movie,Shopping,High
+Review bills,Work,Medium
+Finish homework,Study,Low
+Read ML chapter,Study,High
+Read kitchen,Shopping,Low
+Schedule notes,Study,High
+Finish slides,Shopping,High
+Clean groceries,Shopping,Medium
+Buy project report,Personal,Medium
+Buy slides,Shopping,Low
+Review movie,Work,High
+Renew kitchen,Personal,High
+Submit ML chapter,Personal,Low
+Plan groceries,Work,Medium
+Call homework,Shopping,Low
+Organize notes,Study,Medium
+Pay ML chapter,Shopping,High
+Prepare blog post,Shopping,High
+Organize notes,Shopping,High
+Watch notes,Shopping,Medium
+Pay notes,Work,High
+Study groceries,Shopping,Medium
+Organize slides,Study,Medium
+Finish license,Shopping,Medium
+Call movie,Study,High
+Clean groceries,Study,Medium
+Write parents,Work,Medium
+Attend parents,Personal,Low
+Prepare notes,Shopping,Medium
+Watch meeting,Personal,Low
+Clean movie,Personal,Medium
+Finish groceries,Personal,High
+Submit closet,Personal,Medium
+Attend license,Work,High
+Call meeting,Work,High
+Schedule trip,Personal,High
+Call groceries,Work,Medium
+Attend notes,Study,Low
+Organize trip,Study,Medium
+Schedule groceries,Personal,High
+Plan slides,Study,Medium
+Buy movie,Shopping,High
+Attend slides,Shopping,High
+Buy notes,Work,Medium
+Prepare ML chapter,Study,Low
+Study slides,Study,Medium
+Write groceries,Shopping,High
+Finish appointment,Study,High
+Finish appointment,Shopping,Medium
+Plan groceries,Work,High
+Schedule kitchen,Study,Medium
+Plan blog post,Shopping,Medium
+Call trip,Personal,High
+Clean book,Study,High
+Prepare meeting,Personal,Medium
+Buy book,Study,Medium
+Read parents,Personal,High
+Clean slides,Study,Low
+Study homework,Study,Low
+Call closet,Shopping,High
+Buy blog post,Study,High
+Submit blog post,Shopping,High
+Review closet,Shopping,High
+Buy slides,Personal,High
+Pay appointment,Personal,High
+Attend bills,Work,High
+Write notes,Work,Low
+Schedule bills,Study,Medium
+Plan appointment,Shopping,Medium
+Write blog post,Shopping,Medium
+Review groceries,Work,High
+Plan bills,Shopping,Medium
+Finish movie,Work,High
+Buy blog post,Shopping,High
+Renew bills,Personal,High
+Write blog post,Personal,High
+Read homework,Study,High
+Call license,Shopping,Medium
+Study trip,Work,Medium
+Renew meeting,Personal,Medium
+Schedule kitchen,Work,High
+Submit bills,Shopping,Medium
+Submit movie,Shopping,Low
+Review notes,Personal,Low
+Study bills,Work,Medium
+Review appointment,Personal,Medium
+Buy kitchen,Study,Medium
+Plan parents,Shopping,Medium
+Submit homework,Shopping,High
+Prepare project report,Shopping,Low
+Renew appointment,Shopping,Low
+Renew notes,Shopping,Medium
+Renew parents,Study,Low
+Study slides,Study,High
+Plan homework,Study,High
+Write book,Personal,Medium
+Schedule movie,Personal,Medium
+Attend groceries,Work,High
+Schedule homework,Study,Medium
+Study groceries,Personal,High
+Call groceries,Shopping,High
+Attend parents,Study,Medium
+Read parents,Study,Low
+Call appointment,Shopping,High
+Review bills,Personal,Low
+Schedule homework,Study,Low
+Clean trip,Study,High
+Buy slides,Shopping,Medium
+Attend blog post,Work,High
+Renew bills,Work,Low
+Buy trip,Study,Low
+Attend parents,Personal,Low
+Finish closet,Shopping,Medium
+Schedule blog post,Shopping,High
+Renew license,Work,Medium
+Submit kitchen,Personal,Low
+Read notes,Study,High
+Watch homework,Work,High
+Review meeting,Personal,Medium
+Renew blog post,Work,Medium
+Clean trip,Study,Medium
+Prepare kitchen,Shopping,Low
+Renew slides,Study,High
+Write groceries,Shopping,Medium
+Review slides,Study,Medium
+Study blog post,Personal,Medium
+Buy book,Study,Low
+Buy book,Work,High
+Pay project report,Work,Medium
+Read book,Study,Medium
+Watch trip,Work,Medium
+Review appointment,Personal,Low
+Renew movie,Study,Medium
+Review slides,Work,Medium
+Attend blog post,Personal,Medium
+Write kitchen,Shopping,High
+Call license,Shopping,Medium
+Prepare homework,Study,High
+Review kitchen,Study,Low
+Pay notes,Personal,Medium
+Attend appointment,Work,Medium
+Clean slides,Shopping,High
+Renew groceries,Personal,Medium
+Finish movie,Study,Medium
+Submit closet,Study,Low
+Plan ML chapter,Shopping,Medium
+Attend ML chapter,Study,Low
+Study slides,Shopping,High
+Review project report,Work,High
+Prepare movie,Work,Medium
+Schedule meeting,Shopping,High
+Study closet,Shopping,Medium
+Review trip,Personal,Low
+Finish slides,Shopping,Medium
+Prepare bills,Work,Low
+Attend trip,Personal,Low
+Review trip,Personal,High
+Prepare groceries,Shopping,High
+Schedule book,Personal,Low
+Prepare appointment,Work,Medium
+Renew ML chapter,Study,Medium
+Study project report,Work,Medium
+Prepare kitchen,Study,High
+Prepare project report,Personal,Low
+Pay meeting,Study,High
+Submit notes,Work,Medium
+Read notes,Personal,Medium
+Call project report,Shopping,Low
+Study trip,Personal,High
+Plan slides,Work,Medium
+Read trip,Shopping,High
+Buy closet,Personal,High
+Schedule project report,Study,High
+Buy homework,Shopping,Medium
+Read book,Personal,Low
+Review project report,Shopping,Low
+Watch parents,Shopping,High
+Renew trip,Shopping,High
+Review movie,Work,High
+Organize parents,Work,Low
+Clean trip,Study,Medium
+Submit notes,Personal,High
+Read kitchen,Work,Low
+Read closet,Personal,Medium
+Review ML chapter,Personal,High
+Submit bills,Study,High
+Clean ML chapter,Study,Low
+Attend slides,Personal,Medium
+Organize parents,Shopping,Low
+Write trip,Study,Medium
+Submit parents,Work,High
+Plan blog post,Shopping,Medium
+Renew ML chapter,Work,Medium
+Renew blog post,Study,High
+Plan appointment,Work,Medium
+Study ML chapter,Personal,Medium
+Read parents,Shopping,High
+Study meeting,Shopping,Medium
+Attend slides,Work,High
+Write appointment,Work,Medium
+Clean book,Personal,Medium
+Renew parents,Shopping,Medium
+Read slides,Shopping,Medium
+Finish book,Work,Low
+Read trip,Shopping,High
+Clean groceries,Study,Medium
+Submit parents,Work,High
+Finish bills,Work,High
+Prepare license,Shopping,Low
+Read groceries,Personal,High
+Renew notes,Personal,Medium
+Write meeting,Work,High
+Pay kitchen,Shopping,Medium
+Study closet,Shopping,Medium
+Write groceries,Personal,High
+Review project report,Work,High
+Plan license,Work,Medium
+Watch blog post,Study,Low
+Submit appointment,Study,Low
+Buy kitchen,Personal,High
+Submit bills,Work,Low
+Plan groceries,Study,Medium
+Renew bills,Study,Low
+Study closet,Study,Medium
+Renew slides,Shopping,Low
+Buy notes,Shopping,Medium
+Renew groceries,Work,Medium
+Plan book,Shopping,Medium
+Schedule parents,Personal,Low
+Plan homework,Personal,Low
+Finish appointment,Study,High
+Plan slides,Personal,Medium
+Read notes,Personal,Medium
+Review blog post,Study,Medium
+Plan trip,Shopping,High
+Finish kitchen,Shopping,Medium
+Study bills,Study,High
+Call project report,Study,High
+Clean movie,Shopping,High
+Organize slides,Shopping,Medium
+Plan notes,Work,High
+Pay movie,Personal,High
+Prepare ML chapter,Study,High
+Pay project report,Study,Medium
+Finish closet,Personal,High
+Finish blog post,Study,Medium
+Finish project report,Work,Medium
+Write bills,Work,High
+Prepare kitchen,Work,Medium
+Call notes,Study,Medium
+Submit appointment,Study,Medium
+Schedule project report,Personal,Medium
+Renew notes,Study,Medium
+Prepare blog post,Shopping,Medium
+Schedule slides,Shopping,Low
+Review blog post,Work,Medium
+Prepare groceries,Personal,Medium
+Renew ML chapter,Study,Low
+Plan homework,Study,High
+Watch closet,Work,Medium
+Review kitchen,Shopping,High
+Review book,Work,Medium
+Buy notes,Work,Medium
+Pay license,Personal,High
+Watch bills,Shopping,High
+Pay meeting,Personal,Medium
+Call license,Work,Medium
+Renew appointment,Study,Low
+Buy bills,Study,High
+Call project report,Study,High
+Watch trip,Work,Medium
+Read notes,Personal,Medium
+Clean notes,Work,High
+Buy meeting,Shopping,Medium
+Read slides,Work,Medium
+Read homework,Work,High
+Pay kitchen,Personal,Medium
+Call project report,Study,Medium
+Attend closet,Shopping,High
+Prepare kitchen,Shopping,Low
+Submit closet,Personal,Medium
+Study trip,Study,High
+Organize homework,Study,Low
+Submit movie,Study,Medium
+Read movie,Personal,High
+Organize meeting,Personal,Low
+Schedule blog post,Shopping,Medium
+Prepare ML chapter,Study,High
+Plan ML chapter,Study,Medium
+Attend appointment,Study,High
+Clean license,Personal,Medium
+Plan appointment,Study,Low
+Attend kitchen,Study,Medium
+Renew movie,Personal,Medium
+Watch blog post,Shopping,High
+Submit appointment,Shopping,Low
+Prepare book,Study,High
+Watch project report,Shopping,Medium
+Organize movie,Shopping,High
+Clean homework,Shopping,Medium
+Submit homework,Study,High
+Schedule project report,Personal,Low
+Study parents,Personal,High
+Organize bills,Work,Medium
+Schedule ML chapter,Work,Medium
+Attend license,Work,Medium
+Attend license,Shopping,Low
+Call appointment,Shopping,High
+Read bills,Work,Low
+Plan appointment,Study,High
+Attend book,Study,Medium
+Read appointment,Study,Medium
+Submit movie,Work,High
+Watch book,Personal,High
+Organize kitchen,Work,Medium
+Call meeting,Personal,Low
+Finish book,Shopping,Medium
+Read groceries,Work,High
+Renew book,Personal,High
+Attend blog post,Study,Medium
+Finish blog post,Personal,High
+Clean meeting,Personal,High
+Watch parents,Shopping,High
+Buy blog post,Personal,Medium
+Study kitchen,Personal,Low
+Pay groceries,Shopping,Low
+Review book,Shopping,High
+Pay trip,Shopping,High
+Attend notes,Study,Low
+Prepare license,Personal,High
+Read blog post,Personal,Medium
+Prepare groceries,Work,Low
+Buy ML chapter,Study,Low
+Renew appointment,Shopping,Medium
+Watch trip,Study,High
+Study movie,Personal,High
+Attend appointment,Study,High
+Study license,Study,Medium
+Renew homework,Study,Medium
+Organize slides,Shopping,High
+Write ML chapter,Work,Low
+Write project report,Shopping,High
+Buy parents,Work,Low
+Attend homework,Work,Medium
+Renew slides,Shopping,Medium
+Watch closet,Personal,Medium
+Attend book,Study,Medium
+Plan parents,Work,Medium
+Pay book,Personal,High
+Finish groceries,Work,High
+Plan bills,Work,Low
+Study slides,Study,Low
+Prepare trip,Shopping,Medium
+Watch kitchen,Work,High
+Write slides,Study,Medium
+Clean ML chapter,Shopping,High
+Organize closet,Personal,High
+Attend license,Shopping,High
+Schedule slides,Personal,Medium
+Submit closet,Work,High
+Prepare parents,Work,High
+Review parents,Work,Low
+Watch project report,Shopping,Low
+Write book,Study,High
+Read trip,Study,Medium
+Pay parents,Shopping,High
+Buy project report,Personal,High
+Watch appointment,Study,High
+Pay closet,Personal,High
+Organize closet,Shopping,High
+Prepare notes,Work,High
+Prepare project report,Study,Medium
+Watch blog post,Personal,Medium
+Study groceries,Work,High
+Study ML chapter,Study,Medium
+Finish parents,Personal,High
+Write movie,Shopping,Medium
+Attend homework,Study,High
+Pay blog post,Study,High
+Write ML chapter,Personal,Low
+Call movie,Personal,Medium
+Clean notes,Shopping,High
+Attend slides,Work,Low
+Attend trip,Work,Low
+Schedule homework,Work,High
+Prepare movie,Shopping,Medium
+Prepare blog post,Work,Medium
+Submit trip,Study,Medium
+Plan notes,Work,Medium
+Study blog post,Study,High
+Schedule notes,Study,Low
+Plan trip,Personal,High
+Finish closet,Study,Medium
+Submit bills,Work,High
+Organize closet,Study,Medium
+Write trip,Personal,Medium
+Organize closet,Study,Medium
+Submit bills,Personal,Medium
+Write trip,Work,Medium
+Clean book,Study,Medium
+Organize project report,Work,Medium
+Clean closet,Work,Low
+Review license,Study,Low
+Study closet,Personal,High
+Read license,Personal,High
+Finish trip,Study,Medium
+Read homework,Personal,High
+Submit appointment,Study,Low
+Finish notes,Study,High
+Renew homework,Work,Low
+Prepare groceries,Study,High
+Organize parents,Shopping,Low
+Plan book,Shopping,Medium
+Schedule ML chapter,Shopping,Low
+Organize book,Shopping,Medium
+Write groceries,Study,Medium
+Attend closet,Personal,High
+Watch book,Shopping,High
+Call homework,Work,Medium
+Organize kitchen,Study,Medium
+Call trip,Study,Medium
+Submit groceries,Personal,Medium
+Write parents,Personal,Low
+Read kitchen,Study,Low
+Prepare groceries,Work,Medium
+Review closet,Study,Low
+Watch license,Study,High
+Clean homework,Personal,High
+Submit groceries,Work,Medium
+Finish appointment,Study,Medium
+Finish trip,Work,High
+Buy book,Work,High
+Prepare license,Personal,Medium
+Buy appointment,Study,Medium
+Write bills,Study,High
+Buy book,Study,High
+Organize ML chapter,Shopping,High
+Clean slides,Shopping,High
+Clean bills,Shopping,High
+Pay kitchen,Study,Medium
+Write meeting,Personal,High
+Study appointment,Personal,Low
+Organize meeting,Work,High
+Renew notes,Personal,Medium
+Call closet,Work,High
+Prepare trip,Personal,High
+Pay ML chapter,Personal,Low
+Pay appointment,Work,Medium
+Clean ML chapter,Shopping,Low
+Schedule appointment,Study,Medium
+Prepare book,Work,Medium
+Buy project report,Work,Low
+Finish book,Personal,Medium
+Finish closet,Personal,Medium
+Study appointment,Personal,Low
+Clean notes,Shopping,Low
+Study trip,Personal,Low
+Read license,Shopping,Medium
+Read notes,Personal,Medium
+Clean parents,Personal,Low
+Organize notes,Shopping,Medium
+Renew groceries,Work,High
+Organize meeting,Work,Medium
+Schedule project report,Personal,High
+Study meeting,Work,Medium
+Clean notes,Work,Low
+Watch meeting,Personal,High
+Call kitchen,Work,High
+Finish homework,Shopping,Medium
+Pay book,Work,High
+Review bills,Study,High
+Write notes,Work,High
+Watch book,Work,High
+Submit project report,Shopping,Medium
+Prepare slides,Work,Medium
+Watch bills,Work,High
+Write slides,Work,Medium
+Write bills,Work,Low
+Submit slides,Study,High
+Study notes,Work,Medium
+Organize project report,Work,High
+Renew book,Shopping,High
+Clean kitchen,Personal,High
+Write bills,Personal,High
+Buy book,Personal,Medium
+Watch movie,Shopping,Low
+Call closet,Personal,Medium
+Study groceries,Work,High
+Finish ML chapter,Study,Medium
+Buy appointment,Work,Medium
+Review blog post,Shopping,High
+Write book,Personal,Low
+Write blog post,Work,Low
+Finish license,Study,Medium
+Finish parents,Work,Medium
+Finish appointment,Study,Medium
+Clean trip,Shopping,Medium
+Renew project report,Personal,Low
+Buy project report,Personal,High
+Clean notes,Shopping,Medium
+Schedule blog post,Personal,High
+Renew bills,Study,Medium
+Review movie,Personal,Medium
+Plan movie,Work,High
+Organize homework,Work,High
+Buy movie,Shopping,Low
+Watch book,Work,Low
+Finish movie,Personal,Low
+Read parents,Work,Low
+Submit blog post,Study,High
+Organize movie,Personal,High
+Schedule bills,Personal,Medium
+Write blog post,Work,High
+Submit trip,Work,Medium
+Review kitchen,Study,High
+Organize blog post,Study,High
+Buy blog post,Study,High
+Write meeting,Study,High
+Call appointment,Study,High
+Organize parents,Work,High
+Clean meeting,Personal,Low
+Read bills,Shopping,Medium
+Watch blog post,Work,High
+Study slides,Study,Medium
+Schedule parents,Shopping,High
+Organize notes,Personal,Medium
+Review kitchen,Personal,Medium
+Plan groceries,Study,Medium
+Schedule homework,Study,Low
+Renew blog post,Personal,Medium
+Watch blog post,Study,Low
+Review slides,Study,Low
+Write bills,Work,Medium
+Pay notes,Study,High
+Plan meeting,Shopping,Medium
+Submit homework,Personal,Medium
+Attend trip,Work,High
+Read book,Study,Low
+Schedule license,Shopping,High
+Watch ML chapter,Personal,Medium
+Watch book,Study,High
+Schedule closet,Personal,Low
+Review movie,Study,High
+Review movie,Shopping,High
+Finish kitchen,Work,High
+Review ML chapter,Personal,High
+Study groceries,Personal,Medium
+Plan blog post,Work,High
+Pay kitchen,Study,High
+Schedule notes,Study,Low
+Submit groceries,Work,Medium
+Watch book,Work,Low
+Plan bills,Personal,Medium
+Call kitchen,Personal,Medium
+Prepare slides,Study,Medium
+Watch ML chapter,Study,High
+Pay closet,Personal,Medium
+Buy project report,Work,Medium
+Schedule meeting,Study,High
+Study blog post,Work,High
+Finish closet,Personal,High
+Schedule groceries,Shopping,High
+Renew trip,Shopping,High
+Call slides,Study,High
+Prepare appointment,Personal,High
+Read notes,Shopping,High
+Review parents,Work,Medium
+Call movie,Shopping,Medium
+Plan license,Study,Medium
+Pay groceries,Personal,Medium
+Write project report,Study,High
+Buy homework,Study,High
+Submit license,Work,Medium
+Study ML chapter,Study,Medium
+Prepare homework,Study,Low
+Finish closet,Work,High
+Attend trip,Personal,Low
+Review notes,Study,Low
+Call closet,Work,High
+Schedule movie,Work,High
+Study homework,Shopping,Medium
+Watch book,Work,Low
+Clean kitchen,Shopping,Medium
+Prepare trip,Study,High
+Schedule slides,Study,Medium
+Watch blog post,Shopping,Medium
+Prepare bills,Personal,High
+Submit slides,Work,High
+Study license,Study,Medium
+Finish slides,Personal,Medium
+Study homework,Personal,Low
+Submit ML chapter,Shopping,High
+Review closet,Personal,Low
+Watch closet,Work,Low
+Organize parents,Personal,High
+Watch blog post,Study,Medium
+Attend appointment,Shopping,High
+Buy movie,Study,High
+Prepare appointment,Study,High
+Buy trip,Shopping,Medium
+Call notes,Shopping,Medium
+Schedule groceries,Study,High
+Read homework,Work,Medium
+Read license,Work,Low
+Prepare blog post,Personal,Medium
+Submit blog post,Shopping,High
+Renew book,Work,Low
+Watch trip,Shopping,Medium
+Review notes,Study,Medium
+Study slides,Personal,High
+Prepare closet,Shopping,Medium
+Clean appointment,Study,Medium
+Schedule parents,Work,High
+Attend meeting,Personal,Medium
+Clean movie,Work,High
+Renew slides,Personal,Medium
+Watch blog post,Personal,Medium
+Renew kitchen,Personal,Medium
+Submit appointment,Shopping,Medium
+Clean project report,Work,Medium
+Write trip,Shopping,High
+Organize homework,Personal,Medium
+Organize homework,Personal,Medium
+Pay book,Shopping,Medium
+Write groceries,Work,High
+Finish meeting,Study,High
+Study slides,Shopping,Low
+Write bills,Work,High
+Write bills,Study,High
+Clean project report,Shopping,High
+Study kitchen,Shopping,High
+Finish meeting,Study,Medium
+Pay blog post,Personal,Low
+Organize groceries,Shopping,Medium
+Clean movie,Study,High
+Buy blog post,Personal,High
+Prepare movie,Personal,High
+Call project report,Personal,Medium
+Watch meeting,Study,Medium
+Study movie,Study,Medium
+Watch book,Work,High
+Review book,Personal,Low
+Renew blog post,Work,Low
+Submit kitchen,Study,High
+Organize ML chapter,Shopping,Low
+Buy bills,Shopping,Low
+Prepare movie,Personal,High
+Clean homework,Shopping,High
+Organize kitchen,Study,Medium
+Call blog post,Study,High
+Prepare bills,Shopping,Low
+Schedule movie,Shopping,High
+Read closet,Personal,Medium
+Organize movie,Shopping,Medium
+Call book,Work,High
+Finish closet,Personal,High
+Clean movie,Work,Medium
+Renew homework,Study,High
+Call appointment,Personal,High
+Schedule blog post,Shopping,Medium
+Call closet,Personal,Medium
+Buy license,Work,Low
+Renew homework,Study,High
+Schedule meeting,Work,High
+Schedule project report,Study,High
+Attend bills,Work,Medium
+Watch slides,Personal,Low
+Read groceries,Work,Low
+Finish appointment,Study,Medium
+Attend movie,Work,High
+Pay slides,Work,High
+Finish kitchen,Work,High
+Write meeting,Personal,Medium
+Study project report,Work,Medium
+Buy groceries,Personal,High
+Plan trip,Personal,High
+Call blog post,Study,Medium
+Pay bills,Study,Medium
+Study slides,Work,Low
+Watch blog post,Shopping,Low
+Read trip,Work,Medium
+Clean book,Shopping,Low
+Clean meeting,Personal,Low
+Review project report,Work,High
+Attend ML chapter,Shopping,Low
+Renew project report,Personal,Medium
+Renew blog post,Work,Medium
+Write meeting,Work,Medium
+Watch license,Personal,Medium
+Review meeting,Study,Low
+Schedule parents,Personal,Medium
+Read slides,Personal,Low
+Schedule trip,Work,Medium
+Schedule ML chapter,Personal,Medium
+Read slides,Work,Medium
+Buy homework,Personal,High
+Submit project report,Work,High
+Attend trip,Shopping,Medium
+Write bills,Personal,Low
+Attend meeting,Personal,Medium
+Call trip,Work,Medium
+Read slides,Study,Medium
+Plan kitchen,Personal,Medium
+Attend groceries,Shopping,Low
+Attend trip,Work,High
+Study kitchen,Work,High
+Submit license,Study,Low
+Attend groceries,Shopping,Low
+Finish movie,Personal,Medium
+Clean kitchen,Shopping,High
+Organize bills,Shopping,High
+Prepare kitchen,Study,Medium
+Renew project report,Work,Medium
+Study groceries,Study,High
+Study closet,Work,Medium
+Read meeting,Shopping,High
+Schedule closet,Personal,High
+Call closet,Work,Medium
+Finish ML chapter,Personal,Low
+Renew notes,Work,Medium
+Clean project report,Shopping,Medium
+Call ML chapter,Shopping,Medium
+Study blog post,Work,Medium
+Renew trip,Study,High
+Submit meeting,Shopping,Medium
+Read bills,Study,Medium
+Renew notes,Work,Low
+Read kitchen,Personal,Medium
+Finish homework,Work,Low
+Organize parents,Shopping,High
+Read trip,Shopping,Medium
+Write groceries,Shopping,Medium
+Watch meeting,Work,High
+Call parents,Study,Medium
+Plan meeting,Personal,Medium
+Clean blog post,Shopping,Medium
+Clean bills,Shopping,Medium
+Organize appointment,Study,Medium
+Review meeting,Study,Medium
+Renew groceries,Shopping,High
+Plan groceries,Personal,Medium
+Study slides,Study,Medium
+Watch closet,Study,High
+Write license,Shopping,Medium
+Buy bills,Study,High
+Attend kitchen,Shopping,Medium
+Pay book,Personal,Medium
+Call blog post,Personal,High
+Schedule blog post,Personal,Medium
+Plan notes,Work,High
+Watch kitchen,Work,High
+Read kitchen,Shopping,Medium
+Attend movie,Work,High
+Buy movie,Personal,Low
+Plan parents,Shopping,High
+Buy book,Work,Low
